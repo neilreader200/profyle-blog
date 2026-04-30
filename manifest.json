@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "slug": "welcome",
+      "title": "Welcome to the Profyle Blog",
+      "description": "First post on the new blog.",
+      "date": "2026-04-30",
+      "niche": "general"
+    }
+  ]
+}
