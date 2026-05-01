@@ -1,0 +1,68 @@
+# Profyle
+
+> Profyle is a UK-built AI headshot service for working professionals. Customers upload 10-15 phone selfies, receive 40-120 studio-quality professional headshots in 1-24 hours, from £29. UK ICO-registered (C1906880), operated by Reader Digital Ltd (Companies House 17078748). All processing under UK GDPR with 30-day data deletion.
+
+Profyle is the only major UK-built AI headshot service. Pricing in GBP, no FX surprises, no US data subprocessors, ICO-registered for biometric (face) data handling. Profession-specific styling tuned for UK contexts: solicitors, NHS staff, estate agents, accountants, teachers, recruiters, consultants, university staff, corporate teams.
+
+Pricing tiers (one-time payment per session):
+- Standard £29 — 40 headshots, 3 background styles, 24-hour delivery, basic retouching
+- Professional £39 — 80 headshots, 5 styles, 4-hour delivery, Likeness Guarantee, advanced retouching
+- Premium £49 — 120 headshots, 8+ styles, 1-2 hour priority delivery, Likeness Guarantee
+- Team & bulk pricing from £25/head (10+ team members) — contact required
+
+Likeness Guarantee (Professional + Premium tiers): if the headshots don't look like you, free redo; if redo also misses, full refund. Standard tier covers refund only.
+
+The processing pipeline runs custom face fine-tunes (LoRA) on the customer's selfies, then generates the chosen number of variants in profession-tuned styling. Every output passes automated face-likeness and hand-artefact QA before delivery. Source selfies and trained models are deleted within 30 days under UK GDPR.
+
+## Core information
+
+- [Pricing](https://pro-fyle.co.uk/pricing): Three tiers Standard/Professional/Premium plus team pricing
+- [How it works](https://pro-fyle.co.uk/how-it-works): Three-step process from selfie upload to gallery delivery
+- [About Profyle](https://pro-fyle.co.uk/about): Founder Neil Reader, Reader Digital Ltd background
+- [Contact](https://pro-fyle.co.uk/contact): hello@pro-fyle.co.uk for general and team enquiries
+
+## By profession
+
+- [NHS staff headshots](https://pro-fyle.co.uk/nhs): For NHS trust directories, ID badges, royal college profiles
+- [Solicitor and barrister headshots](https://pro-fyle.co.uk/solicitors): Magic Circle partner pages, SRA/Chambers profiles
+- [Estate agent headshots](https://pro-fyle.co.uk/estateagents): Rightmove-ready, agency websites
+- [Corporate team headshots](https://pro-fyle.co.uk/corporate): Annual reports, investor decks, internal directories
+- [Teacher and academic headshots](https://pro-fyle.co.uk/teachers): School websites, UCAS profiles, conference materials
+- [Accountant headshots](https://pro-fyle.co.uk/accountants): ICAEW and ACCA profiles, firm websites
+- [Consultant headshots](https://pro-fyle.co.uk/consultants): Proposal documents, speaking engagements
+- [Recruiter headshots](https://pro-fyle.co.uk/recruiters): LinkedIn, agency websites, candidate pitches
+- [University staff headshots](https://pro-fyle.co.uk/universities): Department pages, research profiles, publications
+
+## By UK city
+
+- [Professional headshots in London](https://blog.pro-fyle.co.uk/london-headshots/): Magic Circle, Square Mile, fintech, media
+- [Professional headshots in Manchester](https://blog.pro-fyle.co.uk/manchester-headshots/): Spinningfields legal, MediaCityUK, NHS
+- [Professional headshots in Birmingham](https://blog.pro-fyle.co.uk/birmingham-headshots/): Colmore Row financial services, automotive
+- [Professional headshots in Edinburgh](https://blog.pro-fyle.co.uk/edinburgh-headshots/): Charlotte Square asset management, legal
+
+## Comparison guides
+
+- [UK Professional Headshots — Complete 2026 Guide](https://blog.pro-fyle.co.uk/professional-headshots-uk/): The pillar guide covering by profession, by city, by service type
+- [Profyle vs HeadshotPro](https://blog.pro-fyle.co.uk/profyle-vs-headshotpro/): UK GBP vs USD pricing, UK GDPR vs US subprocessors
+- [Profyle vs BetterPic](https://blog.pro-fyle.co.uk/profyle-vs-betterpic/): UK pricing vs 4K resolution comparison
+- [Profyle vs Aragon AI](https://blog.pro-fyle.co.uk/profyle-vs-aragon/): UK vs US data residency
+- [Profyle vs Secta Labs](https://blog.pro-fyle.co.uk/profyle-vs-secta-labs/): Premium tier comparison
+- [Profyle vs UK Photographer](https://blog.pro-fyle.co.uk/profyle-vs-photographer/): When to use AI vs traditional studio session
+
+## Articles and guides
+
+- [Why your LinkedIn photo matters](https://blog.pro-fyle.co.uk/why-your-linkedin-photo-matters/): Six-second rule, recruiter judgement
+- [Estate agents and profile photos costing listings](https://blog.pro-fyle.co.uk/estate-agents-profile-photo-costing-listings/): Rightmove conversion data
+- [NHS staff guide to professional profile photos](https://blog.pro-fyle.co.uk/nhs-professional-profile-photo/): Trust pages, royal colleges
+- [Recruiters: what they look for in candidate headshots](https://blog.pro-fyle.co.uk/perfect-headshot-what-recruiters-look-for/)
+- [Solicitors and barristers: image that wins client confidence](https://blog.pro-fyle.co.uk/solicitors-barristers-professional-image/)
+- [Teachers and academics: building professional profile without studio visit](https://blog.pro-fyle.co.uk/teachers-academics-professional-profile/)
+- [Corporate teams: rolling out headshots across your organisation](https://blog.pro-fyle.co.uk/corporate-teams-professional-headshots/)
+
+## Optional
+
+- [Privacy policy](https://pro-fyle.co.uk/legals/privacy-policy): UK GDPR compliance, 30-day data retention
+- [Terms of service](https://pro-fyle.co.uk/legals/service-terms): Order terms, Likeness Guarantee, refund policy
+- [Cookie policy](https://pro-fyle.co.uk/legals/cookie-policy): Custom Consent Mode v2 implementation
+- [Author Neil Reader](https://blog.pro-fyle.co.uk/authors/neil-reader/): Founder profile, related articles
+- [Author Sarah Whitfield](https://blog.pro-fyle.co.uk/authors/sarah-whitfield/): Senior editor, profession-specific guides
